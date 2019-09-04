@@ -24,3 +24,9 @@ hs_err_pid*
 
 #mvn#
 .mvn/
+
+/target/
+.classpath
+.project
+.settings
+HELP.md
